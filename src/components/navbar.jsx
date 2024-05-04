@@ -97,10 +97,10 @@ const Navbar = () => {
           <Image src="/instagram.png" alt="" width={24} height={24} />
         </Link>
         <Link href="/">
-          <Image src="/facebook.png" alt="" width={24} height={24} />
+          <Image src="/pinterest.png" alt="" width={24} height={24} />
         </Link>
         <Link href="/">
-          <Image src="/pinterest.png" alt="" width={24} height={24} />
+          <Image src="/facebook.png" alt="" width={24} height={24} />
         </Link>
 
       </div>
