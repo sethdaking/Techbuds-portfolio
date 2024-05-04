@@ -1,4 +1,4 @@
-'use client'
+'use client';
  
 export default function myImageLoader({ src, width, quality }) {
     if(src.startsWith('https://i.ibb.co')) return src
